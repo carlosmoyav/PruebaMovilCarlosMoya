@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <class name="user">
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff00">
+            <properties>
+                <property name="email"><![CDATA[movil@facci.com]]></property>
+                <property name="password"><![CDATA[hello]]></property>
+            </properties>
+        </object>
+    </class>
+    <class name="item">
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff01">
+            <properties>
+                <property name="type"><![CDATA[cámara]]></property>
+                <property name="name"><![CDATA[cámara Sony A7iii]]></property>
+                <property name="description"><![CDATA[Esta nueva camara tiene 24mp y puede grabar hasta 4k en 24fps]]></property>
+                <property name="price"><![CDATA[2599,99]]></property>
+                <property name="image"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff12.jpg]]></property>
+            </properties>
+        </object>
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff02">
+            <properties>
+                <property name="type"><![CDATA[lente]]></property>
+                <property name="name"><![CDATA[lente 35mm 1.4]]></property>
+                <property name="description"><![CDATA[Con este lente podras hacer maravillas! Es uno de los más cotizados para las fotos de bodas y eventos sociales, esta seria una de tus mejores inversiones.]]></property>
+                <property name="price"><![CDATA[899.99]]></property>
+                <property name="image"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff11.jpg]]></property>
+            </properties>
+        </object>
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff03">
+            <properties>
+                <property name="type"><![CDATA[flash]]></property>
+                <property name="name"><![CDATA[Flash Godox V860iii]]></property>
+                <property name="description"><![CDATA[Flash de cámara compatible con cámara Canon, 480 flashes de potencia completa, batería de iones de litio de 7.2 V/2600 mAh, tiempo de reciclaje, 10 niveles de lámpara de modelado LED]]></property>
+                <property name="price"><![CDATA[209.00]]></property>
+                <property name="image"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff10.jpg]]></property>
+            </properties>
+        </object>
+    </class>
+</data>
